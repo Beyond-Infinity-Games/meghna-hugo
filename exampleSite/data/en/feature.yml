@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re Game Development Company.
+  title : We’re Game Development Company
   content : "Beyond Infinity Games is Pakistan's Video Game Development Company. We are working on multiple projects and we are on verge of becoming one of the greatest International Game Development Coampanies"
   feature_item : 
       # feature item loop
