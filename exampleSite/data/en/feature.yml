@@ -7,7 +7,7 @@ feature:
   content : "Beyond Infinity Games is Pakistan's Video Game Development Company. We are working on multiple projects and we are on verge of becoming one of the greatest International Game Development Coampanies"
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : GAME DEV
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
       
