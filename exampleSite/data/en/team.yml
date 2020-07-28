@@ -52,7 +52,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Mo. Kha. Alamgir
+    - name : Marlene Angerer
       image_webp : images/team/team-4.webp
       image : images/team/team-4.jpg
       designation : SEO Specialist
