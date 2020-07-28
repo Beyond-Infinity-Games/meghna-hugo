@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://www.beyondinfinitystudio.com"
 title = "Beyond Infinity Games"
 theme = "meghna-hugo"
 # post pagination
