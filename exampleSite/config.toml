@@ -47,8 +47,8 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "services"
-URL = "services"
+name = Games
+URL = "https://www.beyondinfinitystudio.com/games"
 weight = 2
 
 [[menu.main]]
