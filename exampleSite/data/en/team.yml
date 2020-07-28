@@ -4,7 +4,7 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
+    - name : Rizwan Babar
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : CEO/Founder
