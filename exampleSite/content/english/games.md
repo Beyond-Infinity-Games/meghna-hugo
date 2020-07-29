@@ -1,3 +1,3 @@
 ---
-title: "your title there"
+title: "Games - Beyond Infinity Games"
 ---
