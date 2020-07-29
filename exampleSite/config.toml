@@ -78,16 +78,14 @@ weight = 7
 
 #### external / static link ####
 [[menu.static]]
-name = "themefisher"
-URL = "https://themefisher.com/"
-weight = 8
+
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/beyond-infinity-games-menu-logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+author = "Rizwan"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
