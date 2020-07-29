@@ -96,7 +96,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/beyond-infinity-games-menu-logo.png"
 
 # google map
 [params.map]
