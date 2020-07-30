@@ -1,6 +1,6 @@
 ---
 title: "Ludo Champs"
-partial "portfolio.html"
+partial: "portfolio"
 ---
 {{ define "main" }}
 {{ partial "portfolio.html" . }}
