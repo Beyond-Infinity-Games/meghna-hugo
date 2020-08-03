@@ -1,5 +1,6 @@
 ---
 title: "Games - Beyond Infinity Games"
+---
 portfolio:
   enable: true
   title: Our Projects
@@ -71,3 +72,4 @@ portfolio:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
+---
