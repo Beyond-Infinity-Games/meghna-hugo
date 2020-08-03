@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: false
+  enable: true
   title: Our Projects
   portfolio_item:
   - name: Battle Ops
