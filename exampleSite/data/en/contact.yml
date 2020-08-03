@@ -3,9 +3,8 @@ contact:
   enable: true
   title: Contact Us
   subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content: Have any question regarding our work or company? You can contact us through
+    any of the below mentioned ways
   contact_list:
   - icon: ti-location-pin
     info: Lahore, Punjab, Pakistan
