@@ -1,6 +1,6 @@
 ---
 testimonial:
-  enable: true
+  enable: false
   bg_image: "/images/deception-bg.jpg"
   bg_image_webp: "/images/deception-bg.webp"
   testimonial_item:
