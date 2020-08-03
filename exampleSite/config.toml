@@ -90,8 +90,8 @@ link = "https://www.instagram.com/beyondinfinitygames/"
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UC9JiP_hUsXNx6grIk3b2SyA?"
 [[params.social]]
-icon = "ti-linkedin"
-link = "#"
+icon = "ti-android"
+link = "https://play.google.com/store/apps/developer?id=Beyond+Infinity+Studios"
 [[params.social]]
 icon = "ti-dribbble"
 link = "#"
