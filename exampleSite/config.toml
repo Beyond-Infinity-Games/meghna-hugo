@@ -84,8 +84,8 @@ preloader = "images/beyond-infinity-games-menu-logo.png"
 icon = "ti-facebook"
 link = "https://www.facebook.com/BeyondInfinityGamesOfficial"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
+icon = "ti-instagram"
+link = "https://www.instagram.com/beyondinfinitygames/"
 [[params.social]]
 icon = "ti-youtube"
 link = "https://www.youtube.com/channel/UC9JiP_hUsXNx6grIk3b2SyA?"
