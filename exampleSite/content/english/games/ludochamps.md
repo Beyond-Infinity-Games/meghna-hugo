@@ -1,7 +1,7 @@
 ---
 title: "Ludo Champs"
 date: 2020-05-12T12:14:34+06:00
-image: "images/file161.JPG"
+image: "images/lc.jpg"
 // client: "John Doe"
 project_url : "https://play.google.com/store/apps/details?id=com.big.lc"
 categories: ["design","development"]
