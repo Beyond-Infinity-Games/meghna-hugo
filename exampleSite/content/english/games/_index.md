@@ -1,5 +1,5 @@
 ---
 title: "Games - Beyond Infinity Games"
-description: "This is meta description."
+description: "See our all projects on this page"
 draft: false
 ---
