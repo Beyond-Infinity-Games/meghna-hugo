@@ -10,13 +10,13 @@ portfolio:
     - design
     content: Multiplayer first person shooter game
     link: https://themefisher.com
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
+  - name: Ludo Champs
+    image: images/file161.JPG
     image_webp: images/portfolio/portfolio-2.webp
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
+    link: https://www.beyondinfinitystudio.com/games/ludochamps/
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
