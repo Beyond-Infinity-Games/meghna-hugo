@@ -13,29 +13,29 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[menu.main]]
-URL = "#team"
-name = "team"
-weight = 3
-[[menu.main]]
-URL = "#portfolio"
-name = "portfolio"
-weight = 2
-[[menu.main]]
 URL = "#about"
 name = "about"
 weight = 1
 [[menu.main]]
-URL = "contact"
-name = "contact"
-weight = 6
+URL = "games"
+name = "games"
+weight = 2
+[[menu.main]]
+URL = "#portfolio"
+name = "portfolio"
+weight = 3
+[[menu.main]]
+URL = "#team"
+name = "team"
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "blog"
 weight = 5
 [[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 4
+URL = "contact"
+name = "contact"
+weight = 6
 [[menu.static]]
 name = "games"
 url = "https://www.beyondinfinitystudio.com/games"
