@@ -88,7 +88,7 @@ icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
 icon = "ti-youtube"
-link = "#"
+link = "https://www.youtube.com/channel/UC9JiP_hUsXNx6grIk3b2SyA?"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
