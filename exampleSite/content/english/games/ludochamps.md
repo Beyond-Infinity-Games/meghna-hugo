@@ -1,30 +1,16 @@
 ---
 title: "Ludo Champs"
-date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-1.png"
+date: 2020-05-12T12:14:34+06:00
+image: "images/file161.JPG"
 client: "John Doe"
-project_url : "https://themefisher.com/"
+project_url : "play.google.com/store/apps/details?id=com.big.lc"
 categories: ["design","development"]
 description: "This is meta description."
 draft: false
 ---
 
-#### Project Requirements
+#### Description
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+LUDO Champs is a dice game that you can enjoy. It’s free-to-play and can be enjoyed with friends and family. Relive the nostalgic memories with friends as the fun and addicting ludo gameplay keeps you and your friends entertained. Compete and challenge your friends with your high score or play offline with 3 other players, friends or family. Make those gatherings with friends and family memorable with Ludo Champs. Now you can also choose between various designs of dice!
 
-
-#### Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Ludo is a traditional game of the sub-continent that has deep roots into the people’s day to day life of entertainment and gatherings. Ludo Champs lets you compete online with multiplayer and make your high score or play offline with 3 other friends on a single screen. The colorful board styles combined with the fun and entertaining gameplay keeps the players entertained when they want to kill time or have a good time with friends and family.
