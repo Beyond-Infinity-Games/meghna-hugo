@@ -37,7 +37,7 @@ URL = "pricing"
 name = "pricing"
 weight = 4
 [[menu.static]]
-name = "Games"
+name = "games"
 url = "https://www.beyondinfinitystudio.com/games"
 weight = 1
 [params]
