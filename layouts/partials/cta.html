@@ -9,7 +9,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
-				<h2>{{ .title | markdownify }}</h2>
+				<h2><p style="color:#57cacc";>{{ .title | markdownify }}</p></h2>
 				<p style="color:#FFFFFF";>{{ .content | markdownify }}</p>
 				{{ if .button.enable }}
 				{{ with .button }}
