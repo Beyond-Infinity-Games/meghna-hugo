@@ -72,4 +72,3 @@ portfolio:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
----
