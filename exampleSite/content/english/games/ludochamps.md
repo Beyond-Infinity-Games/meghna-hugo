@@ -2,10 +2,10 @@
 title: "Ludo Champs"
 date: 2020-05-12T12:14:34+06:00
 image: "images/file161.JPG"
-client: "John Doe"
+// client: "John Doe"
 project_url : "play.google.com/store/apps/details?id=com.big.lc"
 categories: ["design","development"]
-description: "This is meta description."
+description: "Ludo Champs the fun dice game"
 draft: false
 ---
 
