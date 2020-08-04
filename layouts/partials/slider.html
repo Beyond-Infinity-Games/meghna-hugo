@@ -1,28 +1,25 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.parallax {
-  /* The image used */
-  background-image: url("https://www.beyondinfinitystudio.com/images/deception-bg.jpg");
+{{ $data := index site.Data site.Language.Lang }}
 
-  /* Set a specific height */
-  min-height: 500px; 
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  <h2 style="color:#57cacc">Games</h2>
-}
-</style>
-</head>
-<body>
-
-<div class="parallax"></div>
-
-
-</body>
-</html>
+{{ if $data.cta.cta.enable}}
+{{ with $data.cta.cta}}
+{{"<!-- Start Call To Action -->" | safeHTML}}
+<section id="cta" class="call-to-action parallax-section section-sm bg-1 overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'" data-src="{{ .bg_image_webp | absURL }}" />
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2 style="color:#57cacc";>{{ .title | markdownify }}</h2>
+				<p style="color:#FFFFFF";>{{ .content | markdownify }}</p>
+				{{ if .button.enable }}
+				{{ with .button }}
+				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
+				{{ end }}
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- Start Services Section -->" | safeHTML}}
+{{ end }}
+{{ end }}
