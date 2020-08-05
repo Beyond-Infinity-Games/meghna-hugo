@@ -5,7 +5,7 @@
 </html>
 {{ if .Site.Params.preloader.enable }}
 {{ "<!-- preloader start -->" | safeHTML }}
-<div class="preloader">
+<div class="preloader" style="background-color:#2b2c2f;">
   {{ with .Site.Params.preloader.preloader }}
   <img src="/images/preloader.gif" alt="preloader">
   {{ end }}
