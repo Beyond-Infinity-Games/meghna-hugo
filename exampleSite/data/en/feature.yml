@@ -1,27 +1,26 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
-  image : images/about/gaming.jpg
-  image_webp : images/about/gaming.webp
-  title : We’re Game Development Company
-  content : "Beyond Infinity Games is Pakistan's Video Game Development Company. We are working on multiple projects and we are on verge of becoming one of the greatest International Game Development Coampanies"
-  feature_item : 
-      # feature item loop
-    - title : GAME DEV
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe 
+  enable: true
+  image: images/about/gaming.jpg
+  image_webp: images/about/gaming.webp
+  title: We’re Game Development Company
+  content: Beyond Infinity Games is Pakistan's Video Game Development Company. We
+    are working on multiple projects and we are on verge of becoming one of the greatest
+    International Game Development Companies
+  feature_item:
+  - title: GAME DEV
+    icon: ti-world
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - title: Easy Customization
+    icon: ti-panel
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - title: SEO Optimized
+    icon: ti-stats-up
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
+  - title: Easy Customization
+    icon: ti-announcement
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
