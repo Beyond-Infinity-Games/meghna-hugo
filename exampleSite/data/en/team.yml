@@ -6,9 +6,9 @@ team:
   - name: Rizwan Babar
     image_webp: "/images/rizwan.webp"
     image: "/images/rizwan.jpg"
-    designation: CEO/Founder
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    designation: Chief Executive/Founder
+    content: Muhammad Rizwan Babar is the founder and also Chief Executive of Beyond
+      Infinity Games
     social:
     - icon: ti-facebook
       link: "#"
